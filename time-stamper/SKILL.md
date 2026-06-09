@@ -2,7 +2,7 @@
 name: time-stamper
 displayName: Time Stamper
 description: Generate formatted timestamps for logging, filenames, and debugging in various formats.
-tags: [timestamp, time, utility, logging]
+tags: [timestamp, time, utility, logging, date]
 trigger: When the user needs a timestamp or formatted date/time string.
 ---
 
