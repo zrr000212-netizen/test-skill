@@ -13,7 +13,7 @@ tags: [calculator, math, tool]
 ## 核心命令
 
 ```bash
-python3 scripts/calc.py "5 + 2"
+python3 scripts/calc.py "6 + 2"
 python3 scripts/calc.py "10 / 4"
 python3 scripts/calc.py "2 ** 10"
 ```
