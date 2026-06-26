@@ -2,6 +2,6 @@
 
 Common patterns and troubleshooting tips.
 
-## Update 4
+## Update 7
 
 Added new usage examples and region support.
