@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.5
+## v0.8
 
 - Bug fixes and improvements
 - Updated parameter handling
